@@ -8,6 +8,9 @@ Follow guide Online Curse Kotlin For Android Developer by Antonio Leiva.
 
 [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
+# In progress:
+1. add detail screen
+
 # Enhancements:
 1. Improve the MVP
 2. Add Dagger2
