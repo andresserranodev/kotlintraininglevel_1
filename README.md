@@ -2,8 +2,11 @@
 
 Follow guide Online Curse Kotlin For Android Developer by Antonio Leiva.
 
-Base on training Academy Antonio Leiva
-https://academy.antonioleiva.com/courses/ 
+
+[Base on training Academy Antonio Leiva](https://academy.antonioleiva.com/courses/)
+
+
+[Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 # Enhancements:
 1. Improve the MVP
